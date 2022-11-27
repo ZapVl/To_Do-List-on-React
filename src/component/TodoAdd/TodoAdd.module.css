@@ -1,0 +1,19 @@
+.addTodoForm {
+   display: flex;
+   flex: 1;
+   margin-top: 24px;
+}
+.btn {
+   margin-left: 25px;
+}
+.list_items {
+   display: flex;
+   justify-content: space-between;
+   flex-direction: row;
+   margin-top: 24px;
+}
+.list_items:hover {
+   border-radius: 6px;
+   background: #ff9797;
+   padding: 6px;
+}
